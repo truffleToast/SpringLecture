@@ -1,0 +1,7 @@
+package kr.spring.entity;
+
+
+@javax.persistence.Entity
+public class Board {
+
+}

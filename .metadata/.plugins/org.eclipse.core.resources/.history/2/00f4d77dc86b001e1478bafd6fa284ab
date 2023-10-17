@@ -1,0 +1,6 @@
+# Spring Boot 환경설정하는 파일 (DB, 톰캣 등)
+# Properties일이나 yaml파일을 활용하는 경우
+
+# Tomcat의 Server 포트를 변경
+server.port=8081
+

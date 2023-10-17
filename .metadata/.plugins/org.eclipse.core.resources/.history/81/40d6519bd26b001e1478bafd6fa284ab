@@ -1,0 +1,14 @@
+package kr.spring.entity;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+import lombok.Data;
+
+@Entity // Board vo가 Database Table로 만들 때 설정
+@Data
+public class Board {
+	@Id // 유일하게 하나의 값 기본키 
+	private Long idx; // 인덱스 번호를 int가 아닌 Long으로 쓴다. 
+	
+}

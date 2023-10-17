@@ -1,0 +1,11 @@
+package kr.spring.entity;
+
+import javax.persistence.Entity;
+
+import lombok.Data;
+
+@Entity // Board vo가 Database Table로 만들 때 설정
+@Data
+public class Board {
+
+}

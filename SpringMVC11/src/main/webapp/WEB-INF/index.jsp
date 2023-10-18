@@ -24,7 +24,7 @@
  
     <div class="jumbotron jumbotron-fluid">
        <div class="container">
-          <address style ="font-size: 60px"><strong>Spring Boot</strong>11</address>
+          <address style ="font-size: 60px"><strong>Spring Boot"</strong>11</address>
           <p>Main Page</p>
        </div>
     </div>
@@ -34,12 +34,12 @@
       <div class="card-group">
          <div class="card bg-warning">
             <div class="card-body text-center">
-               <p class="card-text">글목록 보기</p>
+               <p class="card-text"><a href="${cpath}/board/list">글목록 보기</a></p>
             </div>
          </div>
          <div class="card bg-danger">
             <div class="card-body text-center">
-               <p class="card-text">로그인</p>
+               <p class="card-text"><a href="${cpath}/member/login">로그인</a></p>
             </div>
          </div>
       </div>

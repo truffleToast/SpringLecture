@@ -6,15 +6,16 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="bg-dark"/>
+		<item key="selection" value="10"/>
 		<list key="findhistory">
+			<item value="10"/>
+			<item value="form"/>
 			<item value="bg-dark"/>
 			<item value="java"/>
 			<item value="jajav"/>
 			<item value="option"/>
 			<item value="LIST"/>
 			<item value="이전버튼"/>
-			<item value="form"/>
 			<item value="삭제되"/>
 			<item value="vo.idx"/>
 			<item value="getList"/>
@@ -22,7 +23,6 @@
 			<item value="resourc"/>
 			<item value="DispatcherServlet"/>
 			<item value="web.xml의 DispatcherServlet"/>
-			<item value="Dispatcher"/>
 		</list>
 		<list key="replacehistory">
 			<item value="Book"/>
